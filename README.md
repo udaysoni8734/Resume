@@ -1,2 +1,2 @@
-# reusme.github.com
+# udayresume.com
 Resume of Uday Soni
